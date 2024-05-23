@@ -1,0 +1,52 @@
+L'informatique est un domaine d'activité scientifique, technique, et industriel.
+Ces champs d'application peuvent être séparés en deux branches théorique et pratique.
+Certains domaines de l'informatique peuvent être très abstraits, comme la complexité algorithmique, et d'autres peuvent être plus proches d'un public profane.
+
+
+Dans le vocabulaire universitaire américain, l'informatique (« computer science ») désigne surtout l'informatique théorique : un ensemble de sciences formelles qui ont pour objet d'étude la notion d'information et des procédés de traitement automatique de celle-ci, l'algorithmique.
+Les applications de l'informatique depuis les années 1950 forment la base du secteur d'activité des technologies de l'information et de la communication.
+Ce secteur industriel et commercial est lié à la fois aux procédés (logiciels, à l'architectures de systèmes) et au matériel (électronique, télécommunication).
+Le secteur fournit également de nombreux services liés à l'utilisation de ses produits : développement, maintenance, enseignement, assistance, surveillance et entretien.
+
+######
+En premier ressort, un réseau désigne au sens concret « un ensemble de lignes entrelacées » et, au figuré « un ensemble de relations ».
+Par extension, il désigne un ensemble interconnecté, fait de composants et de leurs inter-relations, autorisant la circulation en mode continu ou discontinu de flux (eau, air, huile…) ou d'éléments finis (marchandises, informations, personnes…).
+Le réseau peut être « matériel » (comme le réseau électrique, le réseau routier, le réseau sanguin ou le réseau lymphatique), « immatériel » (comme le réseau social), « abstrait, symbolique ou normalisé » (comme le réseau de tâches de la méthode PERT).
+
+
+Les domaines d'utilisation du concept de réseau sont extrêmement nombreux et diversifiés.
+On retrouve cette notion de réseau dans les sciences humaines et sociales (relations entre les personnes), en économie et en management (relations entre les organisations et les acteurs économiques), en informatique et dans les télécommunications (interconnexion d'équipements), en biologie, en mathématiques (avec en particulier la théorie des graphes), dans toutes les autres sciences dures (cristallographie (réseau de Bravais), informatique théorique, électricité, optique…), en géographie, dans les transports.
+La notion de réseau est également essentielle dans la gestion urbaine, notamment l'acheminement de l'eau potable et l'évacuation des eaux usées.
+
+######
+La mécatronique est la combinaison synergique et systémique de la mécanique, de l'électronique, de l'automatique et de l'informatique en temps réel.
+L'intérêt de ce domaine d'ingénierie interdisciplinaire est de concevoir des systèmes automatiques puissants et de permettre le contrôle de systèmes complexes.
+Le terme mechatronics a été introduit par un ingénieur de la compagnie japonaise « Yaskawa Electric Corporation (en) » en 1969.
+Le terme mécatronique est apparu officiellement en France dans le Larousse 2005.
+
+Les dispositifs mécatroniques sont utilisés pour piloter des systèmes et rétroagir pour s’adapter aux conditions variables de fonctionnement, pour surveiller leur état (sollicitation, fatigue…), réaliser leur maintenance.
+Ce domaine très vaste reste complexe (accès aux informations, compétences en électronique et mécanique, répartition des fonctions, fiabilité et sécurité…).
+Il nécessite des moyens importants et entraîne des coûts élevés.
+
+######
+Un robot est un système alimenté en énergie qui évolue dans un environnement statique ou dynamique, il est formé d'un microcontrôleur ainsi que d'un ou plusieurs capteurs et actionneurs.
+La conception d'un robot se base sur son cahier des charges.
+Elle comprend l'analyse du comportement souhaité pour le robot et sa synthèse théorique, à l'aide notamment des théories d'asservissement, ainsi que l'implémentation logicielle et matérielle du robot.
+
+
+
+La structure d'un robot est contrôlée de manière à effectuer une ou un ensemble de tâche.
+Ce contrôle inclut trois phases distinctes qui se répètent en boucle : la perception, le traitement et l'action.
+Un robot fonctionne par l'exécution continue d'un programme informatique constitué d'algorithmes.
+Ce programme est écrit dans un langage de programmation dont la nature est choisie par le constructeur.
+
+######
+L'intelligence artificielle (IA) est un ensemble de théories et de techniques visant à réaliser des machines capables de simuler l'intelligence humaine.
+Souvent classée dans le groupe des mathématiques et des sciences cognitives, elle fait appel à la neurobiologie computationnelle (particulièrement aux réseaux neuronaux) et à la logique mathématique (partie des mathématiques et de la philosophie).
+Elle utilise des méthodes de résolution de problèmes à forte complexité logique ou algorithmique. Par extension, elle comprend, dans le langage courant, les dispositifs imitant ou remplaçant l'homme dans certaines mises en œuvre de ses fonctions cognitives.
+
+
+Le terme « intelligence artificielle », créé par John McCarthy, est souvent abrégé par le sigle « IA » (ou « AI » en anglais, pour artificial intelligence).
+McCarthy définit l'IA ainsi : « C'est la science et l'ingénierie de la fabrication de machines intelligentes, en particulier de programmes informatiques intelligents.
+Elle est liée à la tâche similaire qui consiste à utiliser des ordinateurs pour comprendre l'intelligence humaine, mais l'IA ne doit pas se limiter aux méthodes qui sont biologiquement observables. »
+#######
